@@ -4,9 +4,9 @@ This project provides a Python implementation of the Procrustes alignment method
 
 ## Features
 
-- **Manual Loading of `.vec` Files:** Load word embeddings from `.vec` files without relying on external libraries.
-- **Procrustes Analysis Implementation:** Align two sets of embeddings by removing differences in translation, scaling, and rotation using NumPy.
-- **Orthogonality Constraint:** Ensure the transformation matrix is orthogonal to preserve vector space properties during alignment.
+- **Manual Loading of `.vec` Files:** Load word embeddings from `.vec` files without relying on external libraries.
+- **Procrustes Analysis Implementation:** Align two sets of embeddings by removing differences in translation, scaling, and rotation using NumPy.
+- **Orthogonality Constraint:** Ensure the transformation matrix is orthogonal to preserve vector space properties during alignment.
 
 ## Requirements
 

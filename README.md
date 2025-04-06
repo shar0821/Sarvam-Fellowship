@@ -25,7 +25,6 @@ This project provides a Python implementation of the Procrustes alignment method
    ```python
    embeddings_index = load_vec('path_to_your_file.vec')
    ```
-
 
 2. **Align Embeddings:**
 
@@ -34,7 +33,6 @@ This project provides a Python implementation of the Procrustes alignment method
    ```python
    aligned_source_embeddings = procrustes_align(source_embeddings, target_embeddings)
    ```
-
 
 3. **Apply Transformation:**
 
@@ -43,9 +41,8 @@ This project provides a Python implementation of the Procrustes alignment method
    ```python
    transformed_embeddings = apply_transformation(new_embeddings, transformation_matrix)
    ```
-
 
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.

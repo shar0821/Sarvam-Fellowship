@@ -4,9 +4,9 @@ This project provides a Python implementation of the Procrustes alignment method
 
 ## Features
 
-- **Manual Loading of `.vec` Files:** Load word embeddings from `.vec` files using fastText without relying on external libraries. Dowloading a dictionary from the MUSE dataset to create the bilingual lexicon.
-- **Procrustes Analysis Implementation:** Align two sets of embeddings by removing differences in translation, scaling, and rotation using NumPy.
-- **Orthogonality Constraint:** Ensure the transformation matrix is orthogonal to preserve vector space properties during alignment.
+- **Manual Loading of `.vec` Files:** Loads word embeddings from `.vec` files using fastText without relying on external libraries. Uses a dictionary from the MUSE dataset (English to Hindi) to create the bilingual lexicon.
+- **Procrustes Analysis Implementation:** Aligns two sets of embeddings by removing differences in translation, scaling, and rotation using NumPy.
+- **Orthogonality Constraint:** Ensures the transformation matrix is orthogonal to preserve vector space properties during alignment.
 
 ## Requirements
 

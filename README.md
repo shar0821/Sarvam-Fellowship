@@ -1,6 +1,6 @@
 # Procrustes Alignment for Text Embeddings
 
-This project provides a Python implementation of the Procrustes alignment method to align text embeddings from different languages or sources into a common vector space. This alignment facilitates tasks such as cross-lingual word embedding mapping and transfer learning.
+This project provides a Python implementation of the Procrustes alignment method to align text embeddings from different languages or sources into a common vector space. This alignment facilitates tasks such as cross-lingual word embedding mapping and transfer learning.
 
 ## Features
 
